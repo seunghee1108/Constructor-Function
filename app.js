@@ -22,3 +22,6 @@ const capsule = {
 };
 console.log(capsule.getTotalDataString());
 // Id: bangseunghee, Password: 305, Email: bangseunghee@example.com
+
+
+// -> 구조와 역할을 파악해본 뒤, 생성자 함수 방식으로 제작해 볼 것
